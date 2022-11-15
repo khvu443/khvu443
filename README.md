@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khvu443&theme=moonlight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khvu443&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khvu443&theme=moonlight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khvu443&theme=moonlight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khvu443&theme=moonlight)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,js,html,css,jquery,bootstrap,unity,visualstudio,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=c,cs,java,js,html,css,jquery,bootstrap,unity,visualstudio,vscode)" />
+  </a>
+</p>

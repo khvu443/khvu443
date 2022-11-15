@@ -1,5 +1,5 @@
 ### Hi there 👋
-About me:
+### About me:
 - 🔭 I’m currently a software engineering student at FPT University
 - 🌱 I’m currently learning Game Development and Web Development
 - 📫 Contact with me: khvu443@gmail.com
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   
 </p>
 
-<p align="left">Language and tools</p>
+### Language and tools
 <p align="center">
 
   <a href="https://skillicons.dev">

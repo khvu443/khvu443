@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a software engineering student at FPT University
-- 🌱 I’m currently learning Game Dev 
-- 📫 Contact with me: khvu443@gmail.com, @vdang716
+- 🌱 I’m currently learning Game Dev and Web Developmen
+- 📫 Contact with me: khvu443@gmail.com
 
 <!--
 **khvu443/khvu443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,9 +33,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=khvu443&show_icons=true&theme=dracula"/>
   </a>
   
-  <a  href="">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khvu443&theme=moonlight"/>
-  </a>
 </p>
 <p align="center"> Language and tools</p>
 <p align="center">

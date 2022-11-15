@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khvu443&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khvu443&theme=moonlight)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khvu443&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khvu443&theme=moonlight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khvu443&theme=moonlight)
+
+[![My Skills](https://skillicons.dev/icons?i=c,cs,js,html,css,jquery,bootstrap,unity,visualstudio,vscode)](https://skillicons.dev)

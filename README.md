@@ -2,7 +2,7 @@
 About me:
 - 🔭 I’m currently a software engineering student at FPT University
 - 🌱 I’m currently learning Game Development and Web Development
-- 📫 Contact with me: [![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](khvu443@gmail.com)
+- 📫 Contact with me: khvu443@gmail.com
 
 <!--
 **khvu443/khvu443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

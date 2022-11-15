@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+About me:
 - 🔭 I’m currently a software engineering student at FPT University
-- 🌱 I’m currently learning Game Dev and Web Developmen
-- 📫 Contact with me: khvu443@gmail.com
+- 🌱 I’m currently learning Game Development and Web Development
+- 📫 Contact with me: [![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](khvu443@gmail.com)
 
 <!--
 **khvu443/khvu443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,10 +34,11 @@ Here are some ideas to get you started:
   </a>
   
 </p>
-<p align="center"> Language and tools</p>
+
+<p align="left">Language and tools</p>
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css,jquery,bootstrap,unity,visualstudio,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css,jquery,bootstrap,unity,visualstudio,vscode&perline=10" />
      </a>
 </p>

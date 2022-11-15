@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khvu443&theme=monokai)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)

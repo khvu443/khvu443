@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css,jquery,bootstrap,unity,visualstudio,vscode,postgres,docker,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css,jquery,bootstrap,unity,visualstudio,github,vscode,postgres,docker,postman&perline=10" />
      </a>
 </p>
